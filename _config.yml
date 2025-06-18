@@ -16,7 +16,7 @@ phone: +82) 10-6709-2535
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: jekyllrb
@@ -25,12 +25,12 @@ github_username:  hsh-notes
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: sukhyun-han
+instagram_username: west.kx_n2
+linkedin_username: sukhyun-han1010
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
+orcid_username: 0009-0004-5862-5334
 # googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
@@ -50,15 +50,15 @@ additional_links:
 
 # About Section (Use below line to override about section title)
 about_title: About Me 
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile_sh.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    - <a href="google.com">Link_example</a>
+#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
