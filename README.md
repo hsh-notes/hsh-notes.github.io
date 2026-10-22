@@ -1,6 +1,4 @@
-# Resume of Sukhyun Han
+# CV of Sukhyun Han
 
-This project is work in progress.
-
-**Resume link --> [Here](http://hsh-notes.github.io)**
+**CV link --> [Here](http://hsh-notes.github.io)**
 
